@@ -12,3 +12,6 @@ Sample app for flight services:
 
 ## Running
 `$ java -jar flight-app-0.0.1-SNAPSHOT.jar`
+
+## Logs
+`flight-app.log` resides in the same folder as  `flight-app-0.0.1-SNAPSHOT.jar`
