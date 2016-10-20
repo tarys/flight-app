@@ -8,7 +8,7 @@ Sample app for flight services:
 - `http://<server>:<port>/env` - app details
 
 ## Build process
-`$ mvn package`
+`$ mvnw package`
 
 ## Running
 `$ java -jar flight-app-0.0.1-SNAPSHOT.jar`
